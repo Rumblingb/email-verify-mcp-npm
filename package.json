@@ -1,0 +1,26 @@
+{
+  "name": "email-verify-mcp",
+  "version": "1.1.0",
+  "description": "MCP server: Email verification and validation for AI agents \u2014 npm wrapper",
+  "main": "index.js",
+  "bin": {
+    "email-verify-mcp": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-agent",
+    "agentpay",
+    "email",
+    "verify",
+    "mcp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumblingb/email-verify-mcp.git"
+  },
+  "homepage": "https://rumblingb.github.io/email-verify-mcp/",
+  "author": "AgentPay Labs",
+  "license": "MIT",
+  "dependencies": {}
+}
